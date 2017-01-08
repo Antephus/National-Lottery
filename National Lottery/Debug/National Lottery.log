@@ -1,0 +1,4 @@
+﻿  National Lottery.cpp
+c:\users\spoon\dropbox\documents\visual studio 2015\projects\national lottery\national lottery\national lottery.cpp(89): warning C4101: 'ticket_counter': unreferenced local variable
+  National Lottery.vcxproj -> C:\Users\spoon\dropbox\documents\visual studio 2015\Projects\National Lottery\Debug\National Lottery.exe
+  National Lottery.vcxproj -> C:\Users\spoon\dropbox\documents\visual studio 2015\Projects\National Lottery\Debug\National Lottery.pdb (Full PDB)
